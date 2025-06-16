@@ -15,7 +15,7 @@ function price() {
 function minPrice() {
     let min = Infinity;
     for (let i in services) {
-        let price = parseInt(services[i]); // Конвертуємо значення у число
+        let price = parseInt(services[i]);
         if (price < min) {
             min = price;
         }
