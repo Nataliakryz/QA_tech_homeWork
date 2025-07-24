@@ -1,0 +1,102 @@
+[
+  {"base_url": "https://qauto2.forstudy.space/api",
+  "data":
+  {
+  "name": "N",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto2.forstudy.space/api",
+  "data":
+  {
+  "name": "123456789012345678901",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto2.forstudy.space/api",
+  "data":
+  {
+  "name": "",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto2.forstudy.space/api",
+  "data":
+  {
+  "name": 123456,
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto2.forstudy.space/api",
+  "data":
+  {
+  "name": "v_i",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto.forstudy.space/api",
+  "data":
+  {
+  "name": "N",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto.forstudy.space/api",
+  "data":
+  {
+  "name": "123456789012345678901",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto.forstudy.space/api",
+  "data":
+  {
+  "name": "",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto.forstudy.space/api",
+  "data":
+  {
+  "name": 123456,
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ },
+ {"base_url": "https://qauto.forstudy.space/api",
+  "data":
+  {
+  "name": "v_i",
+  "lastName": "Test",
+  "email": "{{randEmail}}",
+  "password": "{{randPass}}",
+  "repeatPassword": "{{randPass}}"
+  }
+ }
+]
