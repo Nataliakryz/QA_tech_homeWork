@@ -1,0 +1,501 @@
+timeStamp;elapsed;label;responseCode;responseMessage;threadName;dataType;success;failureMessage;bytes;sentBytes;grpThreads;allThreads;URL;Latency;IdleTime;Connect
+1753561767953,00;6;GET characters;200;OK;Nataliia 1-1;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;6;0;0
+1753561767960,00;3;GET character ID;200;OK;Nataliia 1-1;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;3;0;0
+1753561767964,00;4;POST create character;201;Created;Nataliia 1-1;text;TRUE;;279;224;1;1;http://localhost:3001/character;4;0;2
+1753561767969,00;2;PUT change character;200;OK;Nataliia 1-1;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561767971,00;3;Delete character;200;OK;Nataliia 1-1;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561767972,00;3;GET characters;200;OK;Nataliia 1-2;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;3;0;0
+1753561767975,00;2;GET characters;200;OK;Nataliia 1-3;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;2;0;0
+1753561767976,00;2;GET character ID;200;OK;Nataliia 1-2;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561767977,00;2;GET character ID;200;OK;Nataliia 1-3;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561767979,00;4;POST create character;201;Created;Nataliia 1-2;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;2
+1753561767980,00;4;POST create character;201;Created;Nataliia 1-3;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561767984,00;8;PUT change character;200;OK;Nataliia 1-2;text;TRUE;;270;222;3;3;http://localhost:3001/character/22;8;0;0
+1753561767985,00;8;PUT change character;200;OK;Nataliia 1-3;text;TRUE;;270;222;3;3;http://localhost:3001/character/23;8;0;0
+1753561767987,00;6;GET characters;200;OK;Nataliia 1-4;text;TRUE;;1089;0;3;3;http://localhost:3001/characters;6;0;0
+1753561767992,00;3;Delete character;200;OK;Nataliia 1-2;text;TRUE;;293;225;3;3;http://localhost:3001/character/22;3;0;0
+1753561767993,00;3;Delete character;200;OK;Nataliia 1-3;text;TRUE;;293;225;2;2;http://localhost:3001/character/23;3;0;0
+1753561767994,00;2;GET character ID;200;OK;Nataliia 1-4;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561767997,00;2;POST create character;201;Created;Nataliia 1-4;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768000,00;2;PUT change character;200;OK;Nataliia 1-4;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768002,00;2;Delete character;200;OK;Nataliia 1-4;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768003,00;1;GET characters;200;OK;Nataliia 1-5;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768004,00;2;GET character ID;200;OK;Nataliia 1-5;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768005,00;2;GET characters;200;OK;Nataliia 1-6;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768007,00;2;GET character ID;200;OK;Nataliia 1-6;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768007,00;4;POST create character;201;Created;Nataliia 1-5;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561768010,00;4;POST create character;201;Created;Nataliia 1-6;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;2
+1753561768012,00;4;PUT change character;200;OK;Nataliia 1-5;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;3;0;0
+1753561768015,00;2;PUT change character;200;OK;Nataliia 1-6;text;TRUE;;270;222;2;2;http://localhost:3001/character/23;2;0;0
+1753561768016,00;2;Delete character;200;OK;Nataliia 1-5;text;TRUE;;293;225;3;3;http://localhost:3001/character/22;2;0;0
+1753561768017,00;3;Delete character;200;OK;Nataliia 1-6;text;TRUE;;293;225;2;2;http://localhost:3001/character/23;3;0;0
+1753561768018,00;4;GET characters;200;OK;Nataliia 1-7;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;4;0;0
+1753561768022,00;3;GET character ID;200;OK;Nataliia 1-7;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;3;0;0
+1753561768026,00;3;POST create character;201;Created;Nataliia 1-7;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768029,00;2;PUT change character;200;OK;Nataliia 1-7;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768031,00;1;Delete character;200;OK;Nataliia 1-7;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768034,00;1;GET characters;200;OK;Nataliia 1-8;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768036,00;1;GET character ID;200;OK;Nataliia 1-8;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768036,00;1;GET characters;200;OK;Nataliia 1-9;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768037,00;2;GET character ID;200;OK;Nataliia 1-9;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768037,00;4;POST create character;201;Created;Nataliia 1-8;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561768039,00;3;POST create character;201;Created;Nataliia 1-9;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768041,00;3;PUT change character;200;OK;Nataliia 1-8;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;3;0;0
+1753561768043,00;3;PUT change character;200;OK;Nataliia 1-9;text;TRUE;;270;222;2;2;http://localhost:3001/character/23;3;0;0
+1753561768044,00;3;Delete character;200;OK;Nataliia 1-8;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561768046,00;2;Delete character;200;OK;Nataliia 1-9;text;TRUE;;293;225;1;1;http://localhost:3001/character/23;2;0;0
+1753561768050,00;1;GET characters;200;OK;Nataliia 1-10;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768051,00;2;GET character ID;200;OK;Nataliia 1-10;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768053,00;3;POST create character;201;Created;Nataliia 1-10;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768056,00;3;PUT change character;200;OK;Nataliia 1-10;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;3;0;0
+1753561768059,00;2;Delete character;200;OK;Nataliia 1-10;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;2;0;0
+1753561768065,00;2;GET characters;200;OK;Nataliia 1-11;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768067,00;1;GET character ID;200;OK;Nataliia 1-11;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768069,00;3;POST create character;201;Created;Nataliia 1-11;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768071,00;1;GET characters;200;OK;Nataliia 1-13;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768072,00;2;GET character ID;200;OK;Nataliia 1-13;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768072,00;3;PUT change character;200;OK;Nataliia 1-11;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;3;0;0
+1753561768075,00;2;Delete character;200;OK;Nataliia 1-11;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768075,00;4;POST create character;201;Created;Nataliia 1-13;text;TRUE;;279;224;1;1;http://localhost:3001/character;4;0;1
+1753561768080,00;1;PUT change character;200;OK;Nataliia 1-13;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768081,00;1;GET characters;200;OK;Nataliia 1-12;text;TRUE;;1053;0;3;3;http://localhost:3001/characters;1;0;0
+1753561768082,00;2;Delete character;200;OK;Nataliia 1-13;text;TRUE;;293;225;3;3;http://localhost:3001/character/22;2;0;0
+1753561768083,00;2;GET character ID;200;OK;Nataliia 1-12;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768082,00;3;GET characters;200;OK;Nataliia 1-14;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;3;0;0
+1753561768086,00;1;GET character ID;200;OK;Nataliia 1-14;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768086,00;3;POST create character;201;Created;Nataliia 1-12;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768088,00;2;POST create character;201;Created;Nataliia 1-14;text;TRUE;;279;224;2;2;http://localhost:3001/character;2;0;1
+1753561768089,00;1;PUT change character;200;OK;Nataliia 1-12;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768090,00;2;PUT change character;200;OK;Nataliia 1-14;text;TRUE;;270;222;3;3;http://localhost:3001/character/23;2;0;0
+1753561768091,00;2;Delete character;200;OK;Nataliia 1-12;text;TRUE;;293;225;3;3;http://localhost:3001/character/22;1;0;0
+1753561768092,00;2;GET characters;200;OK;Nataliia 1-15;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768092,00;3;Delete character;200;OK;Nataliia 1-14;text;TRUE;;293;225;2;2;http://localhost:3001/character/23;3;0;0
+1753561768094,00;2;GET character ID;200;OK;Nataliia 1-15;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768098,00;3;POST create character;201;Created;Nataliia 1-15;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768102,00;2;PUT change character;200;OK;Nataliia 1-15;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768103,00;2;GET characters;200;OK;Nataliia 1-16;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768104,00;3;Delete character;200;OK;Nataliia 1-15;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561768105,00;2;GET character ID;200;OK;Nataliia 1-16;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768108,00;3;POST create character;201;Created;Nataliia 1-16;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768112,00;1;GET characters;200;OK;Nataliia 1-17;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768112,00;3;PUT change character;200;OK;Nataliia 1-16;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768113,00;2;GET character ID;200;OK;Nataliia 1-17;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768115,00;1;Delete character;200;OK;Nataliia 1-16;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768116,00;2;POST create character;201;Created;Nataliia 1-17;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768120,00;1;PUT change character;200;OK;Nataliia 1-17;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768121,00;2;GET characters;200;OK;Nataliia 1-18;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768122,00;3;Delete character;200;OK;Nataliia 1-17;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561768123,00;3;GET character ID;200;OK;Nataliia 1-18;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;3;0;0
+1753561768127,00;3;POST create character;201;Created;Nataliia 1-18;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768131,00;2;PUT change character;200;OK;Nataliia 1-18;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768133,00;1;GET characters;200;OK;Nataliia 1-19;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768133,00;2;Delete character;200;OK;Nataliia 1-18;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768134,00;2;GET character ID;200;OK;Nataliia 1-19;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768136,00;3;POST create character;201;Created;Nataliia 1-19;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768140,00;2;PUT change character;200;OK;Nataliia 1-19;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768142,00;2;Delete character;200;OK;Nataliia 1-19;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768143,00;1;GET characters;200;OK;Nataliia 1-20;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768144,00;1;GET character ID;200;OK;Nataliia 1-20;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768146,00;3;POST create character;201;Created;Nataliia 1-20;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768149,00;2;PUT change character;200;OK;Nataliia 1-20;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768152,00;1;Delete character;200;OK;Nataliia 1-20;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768152,00;2;GET characters;200;OK;Nataliia 1-21;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768154,00;1;GET character ID;200;OK;Nataliia 1-21;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768156,00;2;POST create character;201;Created;Nataliia 1-21;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768159,00;3;PUT change character;200;OK;Nataliia 1-21;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;3;0;0
+1753561768162,00;1;Delete character;200;OK;Nataliia 1-21;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768163,00;1;GET characters;200;OK;Nataliia 1-22;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768164,00;1;GET character ID;200;OK;Nataliia 1-22;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768166,00;5;POST create character;201;Created;Nataliia 1-22;text;TRUE;;279;224;1;1;http://localhost:3001/character;5;0;2
+1753561768171,00;3;PUT change character;200;OK;Nataliia 1-22;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;3;0;0
+1753561768174,00;1;GET characters;200;OK;Nataliia 1-23;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768174,00;3;Delete character;200;OK;Nataliia 1-22;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561768176,00;3;GET character ID;200;OK;Nataliia 1-23;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;3;0;0
+1753561768179,00;3;POST create character;201;Created;Nataliia 1-23;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;2
+1753561768182,00;1;GET characters;200;OK;Nataliia 1-24;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768182,00;3;PUT change character;200;OK;Nataliia 1-23;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;3;0;0
+1753561768184,00;1;GET character ID;200;OK;Nataliia 1-24;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768185,00;1;Delete character;200;OK;Nataliia 1-23;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768186,00;5;POST create character;201;Created;Nataliia 1-24;text;TRUE;;279;224;1;1;http://localhost:3001/character;5;0;1
+1753561768192,00;2;PUT change character;200;OK;Nataliia 1-24;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768194,00;1;GET characters;200;OK;Nataliia 1-25;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768195,00;1;Delete character;200;OK;Nataliia 1-24;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768195,00;2;GET character ID;200;OK;Nataliia 1-25;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768198,00;2;POST create character;201;Created;Nataliia 1-25;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768201,00;2;PUT change character;200;OK;Nataliia 1-25;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768201,00;2;GET characters;200;OK;Nataliia 1-26;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768203,00;2;Delete character;200;OK;Nataliia 1-25;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768204,00;1;GET character ID;200;OK;Nataliia 1-26;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768206,00;4;POST create character;201;Created;Nataliia 1-26;text;TRUE;;279;224;1;1;http://localhost:3001/character;4;0;2
+1753561768211,00;1;PUT change character;200;OK;Nataliia 1-26;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768212,00;1;GET characters;200;OK;Nataliia 1-27;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768212,00;2;Delete character;200;OK;Nataliia 1-26;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768213,00;2;GET character ID;200;OK;Nataliia 1-27;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768216,00;2;POST create character;201;Created;Nataliia 1-27;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768219,00;1;PUT change character;200;OK;Nataliia 1-27;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768220,00;2;Delete character;200;OK;Nataliia 1-27;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768222,00;1;GET characters;200;OK;Nataliia 1-28;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768223,00;1;GET character ID;200;OK;Nataliia 1-28;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768225,00;3;POST create character;201;Created;Nataliia 1-28;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768228,00;2;PUT change character;200;OK;Nataliia 1-28;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768231,00;1;Delete character;200;OK;Nataliia 1-28;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768271,00;2;GET characters;200;OK;Nataliia 1-29;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768274,00;2;GET character ID;200;OK;Nataliia 1-29;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768278,00;4;POST create character;201;Created;Nataliia 1-29;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561768281,00;2;GET characters;200;OK;Nataliia 1-30;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768283,00;2;GET character ID;200;OK;Nataliia 1-30;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768283,00;4;PUT change character;200;OK;Nataliia 1-29;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;4;0;0
+1753561768286,00;4;POST create character;201;Created;Nataliia 1-30;text;TRUE;;279;224;3;3;http://localhost:3001/character;4;0;2
+1753561768287,00;5;Delete character;200;OK;Nataliia 1-29;text;TRUE;;293;225;3;3;http://localhost:3001/character/22;5;0;0
+1753561768288,00;5;GET characters;200;OK;Nataliia 1-31;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;5;0;0
+1753561768292,00;3;PUT change character;200;OK;Nataliia 1-30;text;TRUE;;270;222;2;2;http://localhost:3001/character/23;3;0;0
+1753561768293,00;3;GET character ID;200;OK;Nataliia 1-31;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;3;0;0
+1753561768296,00;2;Delete character;200;OK;Nataliia 1-30;text;TRUE;;293;225;3;3;http://localhost:3001/character/23;2;0;0
+1753561768297,00;2;GET characters;200;OK;Nataliia 1-32;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768297,00;4;POST create character;201;Created;Nataliia 1-31;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561768299,00;2;GET character ID;200;OK;Nataliia 1-32;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768301,00;2;PUT change character;200;OK;Nataliia 1-31;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768302,00;3;POST create character;201;Created;Nataliia 1-32;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768303,00;2;Delete character;200;OK;Nataliia 1-31;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768305,00;2;PUT change character;200;OK;Nataliia 1-32;text;TRUE;;270;222;2;2;http://localhost:3001/character/23;2;0;0
+1753561768307,00;1;GET characters;200;OK;Nataliia 1-33;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768307,00;3;Delete character;200;OK;Nataliia 1-32;text;TRUE;;293;225;2;2;http://localhost:3001/character/23;3;0;0
+1753561768309,00;1;GET character ID;200;OK;Nataliia 1-33;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768311,00;3;POST create character;201;Created;Nataliia 1-33;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768315,00;4;PUT change character;200;OK;Nataliia 1-33;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;4;0;0
+1753561768316,00;4;GET characters;200;OK;Nataliia 1-34;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;4;0;0
+1753561768320,00;1;Delete character;200;OK;Nataliia 1-33;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768320,00;1;GET character ID;200;OK;Nataliia 1-34;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768322,00;4;POST create character;201;Created;Nataliia 1-34;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561768325,00;2;GET characters;200;OK;Nataliia 1-35;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768327,00;28;PUT change character;200;OK;Nataliia 1-34;text;TRUE;;270;222;5;5;http://localhost:3001/character/22;28;0;0
+1753561768327,00;28;GET character ID;200;OK;Nataliia 1-35;text;TRUE;;269;0;5;5;http://localhost:3001/character/1;28;0;0
+1753561768333,00;23;GET characters;200;OK;Nataliia 1-36;text;TRUE;;1053;0;5;5;http://localhost:3001/characters;23;0;0
+1753561768347,00;11;GET characters;200;OK;Nataliia 1-37;text;TRUE;;1053;0;5;5;http://localhost:3001/characters;11;0;0
+1753561768355,00;5;Delete character;200;OK;Nataliia 1-34;text;TRUE;;293;225;5;5;http://localhost:3001/character/22;5;0;0
+1753561768357,00;3;GET character ID;200;OK;Nataliia 1-36;text;TRUE;;269;0;5;5;http://localhost:3001/character/1;3;0;0
+1753561768354,00;8;GET characters;200;OK;Nataliia 1-38;text;TRUE;;1017;0;4;4;http://localhost:3001/characters;8;0;0
+1753561768357,00;7;POST create character;201;Created;Nataliia 1-35;text;TRUE;;279;224;4;4;http://localhost:3001/character;7;0;1
+1753561768359,00;6;GET character ID;200;OK;Nataliia 1-37;text;TRUE;;269;0;5;5;http://localhost:3001/character/1;6;0;0
+1753561768362,00;4;GET character ID;200;OK;Nataliia 1-38;text;TRUE;;269;0;5;5;http://localhost:3001/character/1;4;0;0
+1753561768362,00;6;POST create character;201;Created;Nataliia 1-36;text;TRUE;;279;224;5;5;http://localhost:3001/character;6;0;1
+1753561768364,00;5;GET characters;200;OK;Nataliia 1-39;text;TRUE;;1097;0;5;5;http://localhost:3001/characters;5;0;0
+1753561768364,00;6;PUT change character;200;OK;Nataliia 1-35;text;TRUE;;270;222;5;5;http://localhost:3001/character/22;6;0;0
+1753561768366,00;5;POST create character;201;Created;Nataliia 1-37;text;TRUE;;279;224;5;5;http://localhost:3001/character;5;0;1
+1753561768367,00;5;POST create character;201;Created;Nataliia 1-38;text;TRUE;;279;224;5;5;http://localhost:3001/character;5;0;1
+1753561768369,00;3;GET character ID;200;OK;Nataliia 1-39;text;TRUE;;269;0;5;5;http://localhost:3001/character/1;3;0;0
+1753561768369,00;4;PUT change character;200;OK;Nataliia 1-36;text;TRUE;;270;222;5;5;http://localhost:3001/character/23;4;0;0
+1753561768371,00;3;Delete character;200;OK;Nataliia 1-35;text;TRUE;;293;225;5;5;http://localhost:3001/character/22;3;0;0
+1753561768372,00;3;PUT change character;200;OK;Nataliia 1-37;text;TRUE;;270;222;4;4;http://localhost:3001/character/24;3;0;0
+1753561768372,00;4;PUT change character;200;OK;Nataliia 1-38;text;TRUE;;270;222;4;4;http://localhost:3001/character/25;4;0;0
+1753561768374,00;3;Delete character;200;OK;Nataliia 1-36;text;TRUE;;293;225;5;5;http://localhost:3001/character/23;3;0;0
+1753561768373,00;5;POST create character;201;Created;Nataliia 1-39;text;TRUE;;279;224;4;4;http://localhost:3001/character;5;0;1
+1753561768375,00;4;Delete character;200;OK;Nataliia 1-37;text;TRUE;;293;225;4;4;http://localhost:3001/character/24;4;0;0
+1753561768376,00;5;Delete character;200;OK;Nataliia 1-38;text;TRUE;;293;225;3;3;http://localhost:3001/character/25;5;0;0
+1753561768376,00;5;GET characters;200;OK;Nataliia 1-40;text;TRUE;;1057;0;3;3;http://localhost:3001/characters;5;0;0
+1753561768379,00;3;PUT change character;200;OK;Nataliia 1-39;text;TRUE;;270;222;2;2;http://localhost:3001/character/24;3;0;0
+1753561768381,00;1;GET character ID;200;OK;Nataliia 1-40;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768382,00;2;Delete character;200;OK;Nataliia 1-39;text;TRUE;;293;225;2;2;http://localhost:3001/character/24;2;0;0
+1753561768383,00;3;POST create character;201;Created;Nataliia 1-40;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768386,00;2;PUT change character;200;OK;Nataliia 1-40;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768387,00;2;GET characters;200;OK;Nataliia 1-41;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768389,00;2;Delete character;200;OK;Nataliia 1-40;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768389,00;3;GET character ID;200;OK;Nataliia 1-41;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;3;0;0
+1753561768393,00;2;POST create character;201;Created;Nataliia 1-41;text;TRUE;;279;224;2;2;http://localhost:3001/character;2;0;1
+1753561768395,00;2;GET characters;200;OK;Nataliia 1-42;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768396,00;2;PUT change character;200;OK;Nataliia 1-41;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768397,00;2;GET character ID;200;OK;Nataliia 1-42;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768398,00;2;Delete character;200;OK;Nataliia 1-41;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768399,00;3;POST create character;201;Created;Nataliia 1-42;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;2
+1753561768402,00;2;GET characters;200;OK;Nataliia 1-43;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768403,00;2;PUT change character;200;OK;Nataliia 1-42;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768404,00;2;GET character ID;200;OK;Nataliia 1-43;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768405,00;2;Delete character;200;OK;Nataliia 1-42;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768406,00;5;POST create character;201;Created;Nataliia 1-43;text;TRUE;;279;224;1;1;http://localhost:3001/character;5;0;2
+1753561768412,00;1;PUT change character;200;OK;Nataliia 1-43;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768414,00;1;Delete character;200;OK;Nataliia 1-43;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768417,00;1;GET characters;200;OK;Nataliia 1-44;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768418,00;1;GET character ID;200;OK;Nataliia 1-44;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768420,00;2;POST create character;201;Created;Nataliia 1-44;text;TRUE;;279;224;2;2;http://localhost:3001/character;2;0;1
+1753561768422,00;1;GET characters;200;OK;Nataliia 1-45;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768423,00;2;PUT change character;200;OK;Nataliia 1-44;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768423,00;3;GET character ID;200;OK;Nataliia 1-45;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;3;0;0
+1753561768426,00;1;Delete character;200;OK;Nataliia 1-44;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768427,00;2;POST create character;201;Created;Nataliia 1-45;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768430,00;2;PUT change character;200;OK;Nataliia 1-45;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768431,00;1;GET characters;200;OK;Nataliia 1-46;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768432,00;1;Delete character;200;OK;Nataliia 1-45;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768433,00;1;GET character ID;200;OK;Nataliia 1-46;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768435,00;3;POST create character;201;Created;Nataliia 1-46;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768439,00;2;PUT change character;200;OK;Nataliia 1-46;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768441,00;2;Delete character;200;OK;Nataliia 1-46;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768441,00;3;GET characters;200;OK;Nataliia 1-47;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;3;0;0
+1753561768444,00;2;GET character ID;200;OK;Nataliia 1-47;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768447,00;2;POST create character;201;Created;Nataliia 1-47;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768450,00;1;PUT change character;200;OK;Nataliia 1-47;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768451,00;1;GET characters;200;OK;Nataliia 1-48;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768452,00;1;Delete character;200;OK;Nataliia 1-47;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768452,00;2;GET character ID;200;OK;Nataliia 1-48;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768455,00;3;POST create character;201;Created;Nataliia 1-48;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768465,00;2;GET characters;200;OK;Nataliia 1-49;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768459,00;1;PUT change character;200;OK;Nataliia 1-48;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768468,00;1;GET character ID;200;OK;Nataliia 1-49;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768468,00;2;Delete character;200;OK;Nataliia 1-48;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768470,00;1;GET characters;200;OK;Nataliia 1-50;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768470,00;4;POST create character;201;Created;Nataliia 1-49;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561768472,00;3;GET character ID;200;OK;Nataliia 1-50;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;3;0;0
+1753561768474,00;2;PUT change character;200;OK;Nataliia 1-49;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768475,00;3;POST create character;201;Created;Nataliia 1-50;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768477,00;2;Delete character;200;OK;Nataliia 1-49;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768478,00;2;PUT change character;200;OK;Nataliia 1-50;text;TRUE;;270;222;2;2;http://localhost:3001/character/23;2;0;0
+1753561768479,00;2;GET characters;200;OK;Nataliia 1-51;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768480,00;2;Delete character;200;OK;Nataliia 1-50;text;TRUE;;293;225;2;2;http://localhost:3001/character/23;2;0;0
+1753561768481,00;2;GET character ID;200;OK;Nataliia 1-51;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768483,00;3;POST create character;201;Created;Nataliia 1-51;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768486,00;2;PUT change character;200;OK;Nataliia 1-51;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768488,00;3;Delete character;200;OK;Nataliia 1-51;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;3;0;0
+1753561768491,00;2;GET characters;200;OK;Nataliia 1-52;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768493,00;1;GET character ID;200;OK;Nataliia 1-52;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768495,00;2;POST create character;201;Created;Nataliia 1-52;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768497,00;2;PUT change character;200;OK;Nataliia 1-52;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768499,00;1;Delete character;200;OK;Nataliia 1-52;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768500,00;2;GET characters;200;OK;Nataliia 1-53;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768502,00;1;GET character ID;200;OK;Nataliia 1-53;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768504,00;3;POST create character;201;Created;Nataliia 1-53;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768507,00;2;PUT change character;200;OK;Nataliia 1-53;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768510,00;1;Delete character;200;OK;Nataliia 1-53;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768513,00;1;GET characters;200;OK;Nataliia 1-54;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768514,00;1;GET character ID;200;OK;Nataliia 1-54;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768516,00;3;POST create character;201;Created;Nataliia 1-54;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768520,00;2;PUT change character;200;OK;Nataliia 1-54;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768521,00;1;GET characters;200;OK;Nataliia 1-55;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768522,00;4;Delete character;200;OK;Nataliia 1-54;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561768523,00;3;GET character ID;200;OK;Nataliia 1-55;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;3;0;0
+1753561768527,00;3;POST create character;201;Created;Nataliia 1-55;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768530,00;2;PUT change character;200;OK;Nataliia 1-55;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768530,00;2;GET characters;200;OK;Nataliia 1-56;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768532,00;2;Delete character;200;OK;Nataliia 1-55;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768533,00;1;GET character ID;200;OK;Nataliia 1-56;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768535,00;3;POST create character;201;Created;Nataliia 1-56;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768539,00;2;PUT change character;200;OK;Nataliia 1-56;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768540,00;1;GET characters;200;OK;Nataliia 1-57;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768541,00;2;Delete character;200;OK;Nataliia 1-56;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768542,00;1;GET character ID;200;OK;Nataliia 1-57;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768544,00;3;POST create character;201;Created;Nataliia 1-57;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768547,00;2;PUT change character;200;OK;Nataliia 1-57;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768550,00;1;Delete character;200;OK;Nataliia 1-57;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768551,00;1;GET characters;200;OK;Nataliia 1-58;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768552,00;2;GET character ID;200;OK;Nataliia 1-58;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768554,00;3;POST create character;201;Created;Nataliia 1-58;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768557,00;3;PUT change character;200;OK;Nataliia 1-58;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;3;0;0
+1753561768560,00;1;Delete character;200;OK;Nataliia 1-58;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768561,00;1;GET characters;200;OK;Nataliia 1-59;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768562,00;1;GET character ID;200;OK;Nataliia 1-59;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768564,00;3;POST create character;201;Created;Nataliia 1-59;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768568,00;1;PUT change character;200;OK;Nataliia 1-59;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768569,00;1;GET characters;200;OK;Nataliia 1-60;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768570,00;1;Delete character;200;OK;Nataliia 1-59;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768570,00;2;GET character ID;200;OK;Nataliia 1-60;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768573,00;3;POST create character;201;Created;Nataliia 1-60;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768576,00;2;PUT change character;200;OK;Nataliia 1-60;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768578,00;1;GET characters;200;OK;Nataliia 1-61;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768578,00;3;Delete character;200;OK;Nataliia 1-60;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561768579,00;3;GET character ID;200;OK;Nataliia 1-61;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;3;0;0
+1753561768582,00;3;POST create character;201;Created;Nataliia 1-61;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768585,00;1;PUT change character;200;OK;Nataliia 1-61;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768587,00;1;Delete character;200;OK;Nataliia 1-61;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768589,00;2;GET characters;200;OK;Nataliia 1-62;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768592,00;1;GET character ID;200;OK;Nataliia 1-62;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768594,00;3;POST create character;201;Created;Nataliia 1-62;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768597,00;1;PUT change character;200;OK;Nataliia 1-62;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768599,00;1;Delete character;200;OK;Nataliia 1-62;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768600,00;1;GET characters;200;OK;Nataliia 1-63;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768602,00;1;GET character ID;200;OK;Nataliia 1-63;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;0;0;0
+1753561768603,00;2;POST create character;201;Created;Nataliia 1-63;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768606,00;1;PUT change character;200;OK;Nataliia 1-63;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768608,00;1;Delete character;200;OK;Nataliia 1-63;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768609,00;1;GET characters;200;OK;Nataliia 1-64;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768610,00;2;GET character ID;200;OK;Nataliia 1-64;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768613,00;2;POST create character;201;Created;Nataliia 1-64;text;TRUE;;279;224;2;2;http://localhost:3001/character;2;0;1
+1753561768616,00;1;GET characters;200;OK;Nataliia 1-65;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768616,00;2;PUT change character;200;OK;Nataliia 1-64;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768617,00;2;GET character ID;200;OK;Nataliia 1-65;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768619,00;1;Delete character;200;OK;Nataliia 1-64;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768620,00;2;POST create character;201;Created;Nataliia 1-65;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768623,00;1;PUT change character;200;OK;Nataliia 1-65;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768625,00;2;Delete character;200;OK;Nataliia 1-65;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768628,00;1;GET characters;200;OK;Nataliia 1-66;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768629,00;1;GET character ID;200;OK;Nataliia 1-66;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768631,00;3;POST create character;201;Created;Nataliia 1-66;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768634,00;2;PUT change character;200;OK;Nataliia 1-66;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768636,00;1;GET characters;200;OK;Nataliia 1-67;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768636,00;1;Delete character;200;OK;Nataliia 1-66;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768637,00;1;GET character ID;200;OK;Nataliia 1-67;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768638,00;4;POST create character;201;Created;Nataliia 1-67;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768642,00;2;PUT change character;200;OK;Nataliia 1-67;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768644,00;2;Delete character;200;OK;Nataliia 1-67;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;2;0;0
+1753561768647,00;1;GET characters;200;OK;Nataliia 1-68;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768648,00;1;GET character ID;200;OK;Nataliia 1-68;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768649,00;3;POST create character;201;Created;Nataliia 1-68;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768652,00;2;PUT change character;200;OK;Nataliia 1-68;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768654,00;1;Delete character;200;OK;Nataliia 1-68;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768656,00;2;GET characters;200;OK;Nataliia 1-69;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768658,00;2;GET character ID;200;OK;Nataliia 1-69;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768661,00;2;POST create character;201;Created;Nataliia 1-69;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768664,00;1;PUT change character;200;OK;Nataliia 1-69;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768664,00;1;GET characters;200;OK;Nataliia 1-70;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768665,00;2;Delete character;200;OK;Nataliia 1-69;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768666,00;1;GET character ID;200;OK;Nataliia 1-70;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768668,00;3;POST create character;201;Created;Nataliia 1-70;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768672,00;1;PUT change character;200;OK;Nataliia 1-70;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768674,00;2;Delete character;200;OK;Nataliia 1-70;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768674,00;2;GET characters;200;OK;Nataliia 1-71;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768676,00;2;GET character ID;200;OK;Nataliia 1-71;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768679,00;3;POST create character;201;Created;Nataliia 1-71;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768682,00;2;PUT change character;200;OK;Nataliia 1-71;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768684,00;1;Delete character;200;OK;Nataliia 1-71;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768687,00;2;GET characters;200;OK;Nataliia 1-72;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768689,00;2;GET character ID;200;OK;Nataliia 1-72;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768692,00;3;POST create character;201;Created;Nataliia 1-72;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768695,00;1;GET characters;200;OK;Nataliia 1-73;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768695,00;2;PUT change character;200;OK;Nataliia 1-72;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768696,00;1;GET character ID;200;OK;Nataliia 1-73;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768697,00;1;Delete character;200;OK;Nataliia 1-72;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768698,00;2;POST create character;201;Created;Nataliia 1-73;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768700,00;2;PUT change character;200;OK;Nataliia 1-73;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768703,00;2;Delete character;200;OK;Nataliia 1-73;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768705,00;1;GET characters;200;OK;Nataliia 1-74;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768707,00;1;GET character ID;200;OK;Nataliia 1-74;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768709,00;3;POST create character;201;Created;Nataliia 1-74;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768713,00;2;PUT change character;200;OK;Nataliia 1-74;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768714,00;1;GET characters;200;OK;Nataliia 1-75;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768715,00;1;Delete character;200;OK;Nataliia 1-74;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768715,00;2;GET character ID;200;OK;Nataliia 1-75;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768718,00;3;POST create character;201;Created;Nataliia 1-75;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768721,00;2;PUT change character;200;OK;Nataliia 1-75;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768724,00;2;Delete character;200;OK;Nataliia 1-75;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768724,00;3;GET characters;200;OK;Nataliia 1-76;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;3;0;0
+1753561768727,00;1;GET character ID;200;OK;Nataliia 1-76;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768729,00;2;POST create character;201;Created;Nataliia 1-76;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768732,00;2;PUT change character;200;OK;Nataliia 1-76;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768733,00;1;GET characters;200;OK;Nataliia 1-77;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768734,00;2;Delete character;200;OK;Nataliia 1-76;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768735,00;2;GET character ID;200;OK;Nataliia 1-77;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768738,00;3;POST create character;201;Created;Nataliia 1-77;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768741,00;7;PUT change character;200;OK;Nataliia 1-77;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;7;0;0
+1753561768748,00;2;GET characters;200;OK;Nataliia 1-78;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768749,00;2;Delete character;200;OK;Nataliia 1-77;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768750,00;2;GET character ID;200;OK;Nataliia 1-78;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768752,00;1;GET characters;200;OK;Nataliia 1-79;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768753,00;1;GET character ID;200;OK;Nataliia 1-79;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;1;0;0
+1753561768752,00;4;POST create character;201;Created;Nataliia 1-78;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;2
+1753561768755,00;2;POST create character;201;Created;Nataliia 1-79;text;TRUE;;279;224;2;2;http://localhost:3001/character;2;0;1
+1753561768756,00;2;PUT change character;200;OK;Nataliia 1-78;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768758,00;1;PUT change character;200;OK;Nataliia 1-79;text;TRUE;;270;222;2;2;http://localhost:3001/character/23;1;0;0
+1753561768759,00;1;Delete character;200;OK;Nataliia 1-78;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768759,00;2;Delete character;200;OK;Nataliia 1-79;text;TRUE;;293;225;1;1;http://localhost:3001/character/23;2;0;0
+1753561768762,00;1;GET characters;200;OK;Nataliia 1-80;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768763,00;1;GET character ID;200;OK;Nataliia 1-80;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768765,00;4;POST create character;201;Created;Nataliia 1-80;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768769,00;2;PUT change character;200;OK;Nataliia 1-80;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768771,00;2;Delete character;200;OK;Nataliia 1-80;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768773,00;2;GET characters;200;OK;Nataliia 1-81;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768775,00;1;GET character ID;200;OK;Nataliia 1-81;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768777,00;2;POST create character;201;Created;Nataliia 1-81;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768780,00;1;PUT change character;200;OK;Nataliia 1-81;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768781,00;2;Delete character;200;OK;Nataliia 1-81;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768783,00;1;GET characters;200;OK;Nataliia 1-82;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768784,00;1;GET character ID;200;OK;Nataliia 1-82;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768786,00;2;POST create character;201;Created;Nataliia 1-82;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768788,00;2;PUT change character;200;OK;Nataliia 1-82;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768790,00;1;Delete character;200;OK;Nataliia 1-82;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768792,00;1;GET characters;200;OK;Nataliia 1-83;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768793,00;1;GET character ID;200;OK;Nataliia 1-83;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768795,00;3;POST create character;201;Created;Nataliia 1-83;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768799,00;1;PUT change character;200;OK;Nataliia 1-83;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768800,00;1;GET characters;200;OK;Nataliia 1-84;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768800,00;2;Delete character;200;OK;Nataliia 1-83;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768801,00;1;GET character ID;200;OK;Nataliia 1-84;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768803,00;2;POST create character;201;Created;Nataliia 1-84;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768806,00;1;PUT change character;200;OK;Nataliia 1-84;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768807,00;2;Delete character;200;OK;Nataliia 1-84;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;2;0;0
+1753561768810,00;1;GET characters;200;OK;Nataliia 1-85;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768811,00;2;GET character ID;200;OK;Nataliia 1-85;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768814,00;2;POST create character;201;Created;Nataliia 1-85;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768817,00;1;PUT change character;200;OK;Nataliia 1-85;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768818,00;1;Delete character;200;OK;Nataliia 1-85;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768821,00;1;GET characters;200;OK;Nataliia 1-86;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768822,00;1;GET character ID;200;OK;Nataliia 1-86;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768824,00;3;POST create character;201;Created;Nataliia 1-86;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768828,00;1;PUT change character;200;OK;Nataliia 1-86;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768829,00;2;Delete character;200;OK;Nataliia 1-86;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768832,00;1;GET characters;200;OK;Nataliia 1-87;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768833,00;1;GET character ID;200;OK;Nataliia 1-87;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768835,00;2;POST create character;201;Created;Nataliia 1-87;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768837,00;2;PUT change character;200;OK;Nataliia 1-87;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;2;0;0
+1753561768840,00;2;Delete character;200;OK;Nataliia 1-87;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768841,00;2;GET characters;200;OK;Nataliia 1-88;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;2;0;0
+1753561768843,00;1;GET character ID;200;OK;Nataliia 1-88;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768845,00;3;POST create character;201;Created;Nataliia 1-88;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;2
+1753561768849,00;2;PUT change character;200;OK;Nataliia 1-88;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768850,00;2;GET characters;200;OK;Nataliia 1-89;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768851,00;2;Delete character;200;OK;Nataliia 1-88;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768852,00;2;GET character ID;200;OK;Nataliia 1-89;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768855,00;3;POST create character;201;Created;Nataliia 1-89;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768859,00;2;GET characters;200;OK;Nataliia 1-90;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768859,00;3;PUT change character;200;OK;Nataliia 1-89;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;3;0;0
+1753561768861,00;2;GET character ID;200;OK;Nataliia 1-90;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768863,00;1;Delete character;200;OK;Nataliia 1-89;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768864,00;2;POST create character;201;Created;Nataliia 1-90;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768867,00;1;PUT change character;200;OK;Nataliia 1-90;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768869,00;1;Delete character;200;OK;Nataliia 1-90;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;1;0;0
+1753561768872,00;1;GET characters;200;OK;Nataliia 1-91;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768873,00;2;GET character ID;200;OK;Nataliia 1-91;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768876,00;3;POST create character;201;Created;Nataliia 1-91;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768880,00;2;PUT change character;200;OK;Nataliia 1-91;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768880,00;3;GET characters;200;OK;Nataliia 1-92;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;3;0;0
+1753561768882,00;2;Delete character;200;OK;Nataliia 1-91;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;2;0;0
+1753561768883,00;2;GET character ID;200;OK;Nataliia 1-92;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768887,00;1;GET characters;200;OK;Nataliia 1-93;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;1;0;0
+1753561768886,00;3;POST create character;201;Created;Nataliia 1-92;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768888,00;2;GET character ID;200;OK;Nataliia 1-93;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;2;0;0
+1753561768890,00;2;PUT change character;200;OK;Nataliia 1-92;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768891,00;3;POST create character;201;Created;Nataliia 1-93;text;TRUE;;279;224;2;2;http://localhost:3001/character;3;0;1
+1753561768892,00;4;Delete character;200;OK;Nataliia 1-92;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;4;0;0
+1753561768895,00;3;PUT change character;200;OK;Nataliia 1-93;text;TRUE;;270;222;2;2;http://localhost:3001/character/23;3;0;0
+1753561768897,00;3;GET characters;200;OK;Nataliia 1-94;text;TRUE;;1053;0;2;2;http://localhost:3001/characters;2;0;0
+1753561768898,00;3;Delete character;200;OK;Nataliia 1-93;text;TRUE;;293;225;2;2;http://localhost:3001/character/23;3;0;0
+1753561768900,00;2;GET character ID;200;OK;Nataliia 1-94;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;2;0;0
+1753561768903,00;7;POST create character;201;Created;Nataliia 1-94;text;TRUE;;279;224;2;2;http://localhost:3001/character;7;0;1
+1753561768908,00;3;GET characters;200;OK;Nataliia 1-95;text;TRUE;;1057;0;2;2;http://localhost:3001/characters;3;0;0
+1753561768911,00;2;PUT change character;200;OK;Nataliia 1-94;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;2;0;0
+1753561768911,00;4;GET character ID;200;OK;Nataliia 1-95;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;4;0;0
+1753561768914,00;3;Delete character;200;OK;Nataliia 1-94;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;3;0;0
+1753561768917,00;6;GET characters;200;OK;Nataliia 1-96;text;TRUE;;1017;0;2;2;http://localhost:3001/characters;6;0;0
+1753561768916,00;9;POST create character;201;Created;Nataliia 1-95;text;TRUE;;279;224;2;2;http://localhost:3001/character;9;0;1
+1753561768923,00;3;GET character ID;200;OK;Nataliia 1-96;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;3;0;0
+1753561768926,00;2;PUT change character;200;OK;Nataliia 1-95;text;TRUE;;270;222;3;3;http://localhost:3001/character/22;2;0;0
+1753561768927,00;1;GET characters;200;OK;Nataliia 1-97;text;TRUE;;1053;0;3;3;http://localhost:3001/characters;1;0;0
+1753561768928,00;2;Delete character;200;OK;Nataliia 1-95;text;TRUE;;293;225;3;3;http://localhost:3001/character/22;2;0;0
+1753561768927,00;4;POST create character;201;Created;Nataliia 1-96;text;TRUE;;279;224;2;2;http://localhost:3001/character;4;0;1
+1753561768928,00;4;GET character ID;200;OK;Nataliia 1-97;text;TRUE;;269;0;2;2;http://localhost:3001/character/1;4;0;0
+1753561768932,00;1;PUT change character;200;OK;Nataliia 1-96;text;TRUE;;270;222;2;2;http://localhost:3001/character/22;1;0;0
+1753561768932,00;2;POST create character;201;Created;Nataliia 1-97;text;TRUE;;279;224;2;2;http://localhost:3001/character;2;0;1
+1753561768933,00;1;Delete character;200;OK;Nataliia 1-96;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768934,00;1;PUT change character;200;OK;Nataliia 1-97;text;TRUE;;270;222;1;1;http://localhost:3001/character/23;1;0;0
+1753561768936,00;1;Delete character;200;OK;Nataliia 1-97;text;TRUE;;293;225;2;2;http://localhost:3001/character/23;1;0;0
+1753561768936,00;2;GET characters;200;OK;Nataliia 1-98;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768938,00;1;GET character ID;200;OK;Nataliia 1-98;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768940,00;3;POST create character;201;Created;Nataliia 1-98;text;TRUE;;279;224;1;1;http://localhost:3001/character;3;0;1
+1753561768944,00;2;PUT change character;200;OK;Nataliia 1-98;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768946,00;1;Delete character;200;OK;Nataliia 1-98;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768947,00;1;GET characters;200;OK;Nataliia 1-99;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768948,00;1;GET character ID;200;OK;Nataliia 1-99;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768950,00;2;POST create character;201;Created;Nataliia 1-99;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768953,00;1;PUT change character;200;OK;Nataliia 1-99;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768955,00;1;Delete character;200;OK;Nataliia 1-99;text;TRUE;;293;225;2;2;http://localhost:3001/character/22;1;0;0
+1753561768956,00;1;GET characters;200;OK;Nataliia 1-100;text;TRUE;;1017;0;1;1;http://localhost:3001/characters;1;0;0
+1753561768958,00;1;GET character ID;200;OK;Nataliia 1-100;text;TRUE;;269;0;1;1;http://localhost:3001/character/1;1;0;0
+1753561768960,00;2;POST create character;201;Created;Nataliia 1-100;text;TRUE;;279;224;1;1;http://localhost:3001/character;2;0;1
+1753561768963,00;1;PUT change character;200;OK;Nataliia 1-100;text;TRUE;;270;222;1;1;http://localhost:3001/character/22;1;0;0
+1753561768964,00;2;Delete character;200;OK;Nataliia 1-100;text;TRUE;;293;225;1;1;http://localhost:3001/character/22;2;0;0
